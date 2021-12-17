@@ -1,0 +1,68 @@
+/*
+Dev:      Eric Morgan
+Date:     12/16/21
+Filename  styles.css
+*/
+
+
+.container {
+    margin-top: 20px;
+}
+
+section {
+    margin-left: 225px;
+    margin-top: 40px;
+}
+
+#flexRadioDefault1 {
+    margin-top: 14px;
+}
+
+#thisLbl {
+    margin-top: 12px;
+}
+
+#submit {
+    margin-top: 10px;
+}
+
+/*Fixed position footer*/
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(122, 145, 141);
+    color: white;
+    text-align: center;
+}
+.footer > p
+{
+    padding-top: 10px;
+}
+
+/*Changing the font*/
+body {
+    font-family: 'Roboto Condensed', Verdana, Helvetica, sans-serif;
+    background-color: #93B1A7;
+}
+
+div > img
+{
+    width: 150px;
+}
+
+.card
+{
+    margin-left: 200px;
+    background-color: rgb(34, 33, 33);
+    margin-bottom: 60px;
+    color: snow;
+}
+
+#header
+{
+    padding: 20px;
+    background-color: rgb(122, 145, 141);
+    color: snow;
+}
